@@ -3,7 +3,9 @@
 #
 # Commands:
 #   まきちゃんの様子 - 西木野真姫が映ってるgifアニメをランダムで表示
-
+#
+# Author
+#   sanographix
 
 makigif = [
   "http://37.media.tumblr.com/6ecdbb327dd232eb564fe4250a5a3fd4/tumblr_n7ltynJY161r3rdh2o1_500.gif",
